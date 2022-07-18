@@ -1,5 +1,7 @@
 # ia-tetris
-Projecto de Inteligência Artificial 2021 - Tetris
+Projeto de Inteligência Artificial 2021 - Tetris
+
+*Project of Artificial Intelligence 2021 - Tetris*
 
 ## How to install
 
@@ -34,3 +36,10 @@ python -m pygame.examples.aliens
 # Tested on:
 - OSX Big Sur 11.6
 
+# Authors
+
+- [FlipGoncalves](https://github.com/FlipGoncalves)
+- [martinhoT](https://github.com/martinhoT)
+- [PFig420](https://github.com/PFig420)
+
+**Author of the base game**: [dgomes](https://github.com/dgomes)
